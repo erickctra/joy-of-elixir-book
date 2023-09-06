@@ -5,5 +5,4 @@
 
 custom_text = IO.puts("This file was generated from Elixir")
 
-
 File.write("generated.exs", custom_text)
